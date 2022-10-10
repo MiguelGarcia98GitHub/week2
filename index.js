@@ -1,2 +1,3 @@
-const x = 22;
-console.log(x);
+import { foo } from './utils.js';
+
+foo();
